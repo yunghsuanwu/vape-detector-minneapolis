@@ -25,3 +25,7 @@ The raw data we received was in the PDF format and can be found in the folder ha
 The VDT data came from four schools: Andersen Middle, Anwatin Middle, Camden High (called Henry High in the dataset), and Roosevelt. Data spans from September 2024 to mid-April 2025. 
 
 We also provide the Jupyter Notebook (halo_dateexploration.ipynb) containing the data exploration and analysis we’ve performed for the report.
+
+## Social media data
+In the report, we also included quotes and captures from social media data where online users–especially students–took to the internet to discuss HALO VDTs. Acknowledging that this is yet a comprehensive survey of the broad social media space, we provide what we have discovered during the time of our studies in social-media-data.xlsx. 
+
