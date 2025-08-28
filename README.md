@@ -1,5 +1,5 @@
 # vape-detector-minneapolis
-This repository is a part of the analysis done for the report "Selling Safety: Assessing Corporate Promotion of AI-Powered Vape Detectors in School Bathrooms."
+This repository serves as an appendix to the report "Selling Safety: Assessing Corporate Promotion of AI-Powered Vape Detectors in School Bathrooms."
 
 # About the report
 Vape Detection Technologies (VDTs) are AI-powered systems increasingly used in US schools to monitor bathroom environments for e-cigarette vapors, prohibited substances, and behaviors that may indicate vaping. VDT systems comprise arrays of sensing devices installed in school bathrooms, locker rooms, and other “private” spaces in schools, programmed to collect and feed data into an AI-driven backend platform for analysis. While VDT systems do not collect visual data, manufacturers claim the devices have the ability to monitor for aggression and bullying, in addition to air quality and disease transmission in schools using built-in sensors. The systems also allow school officials and law enforcement to cross-reference device alerts against data from hallway CCTV, electronic hall passes (E-Hall Pass), and other data to circumstantially identify students allegedly involved in vaping incidents. 
