@@ -27,5 +27,5 @@ The VDT data came from four schools: Andersen Middle, Anwatin Middle, Camden Hig
 We also provide the Jupyter Notebook [halo_dateexploration.ipynb](haloreport_dataexploration.ipynb) containing the data exploration and analysis we’ve performed for the report.
 
 ## Social media data
-In the report, we also included quotes and captures from social media data where online users–especially students–took to the internet to discuss HALO VDTs. Acknowledging that this is yet a comprehensive survey of the broad social media space, we provide what we have discovered during the time of our studies in [social-media-data.xlsx](soial-media-data.xlsx). 
+In the report, we also included quotes and captures from social media data where online users–especially students–took to the internet to discuss HALO VDTs. Acknowledging that this is yet a comprehensive survey of the broad social media space, we provide what we have discovered during the time of our studies in [social-media-data.xlsx](social-media-data.xlsx). 
 
