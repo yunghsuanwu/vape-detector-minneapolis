@@ -7,7 +7,7 @@ Vape Detection Technologies (VDTs) are AI-powered systems increasingly used in U
 The intention of this report is to build awareness of the use of VDTs; promote critical examination of manufacturers’ claims of effectiveness; and to propose a set of queries and parameters for VDT hardware and systems testing. Altogether, the report is part of a larger intention to document and examine the impact of the experimental use of novel data- and AI-driven technologies in complex social settings with vulnerable populations.
 
 For more information, please read the full report at the following link(s):
-- [link1]()
+- [Present Moment Enterprises Blog Post](https://www.presentmoment.tech/post/selling-safety-assessing-corporate-promotion-of-ai-powered-vape-detectors-in-school-bathrooms)
 - [link2]()
 - [link3]()
 
