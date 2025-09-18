@@ -8,8 +8,6 @@ The intention of this report is to build awareness of the use of VDTs; promote c
 
 For more information, please read the full report at the following link(s):
 - [Present Moment Enterprises Blog Post](https://www.presentmoment.tech/post/selling-safety-assessing-corporate-promotion-of-ai-powered-vape-detectors-in-school-bathrooms)
-- [link2]()
-- [link3]()
 
 # About this repository
 This repository contains the raw materials and data used as part of the analysis in the report. You could find the following:
